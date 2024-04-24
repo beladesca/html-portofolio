@@ -1,0 +1,19 @@
+h1, h2{
+    color: blueviolet;
+}
+
+div p{
+    color: brown;
+}
+
+.list li{
+    color: blue;
+}
+
+.list .done{
+    color: green;
+}
+
+ul p{
+    font-size: 60%;
+}
